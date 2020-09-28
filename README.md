@@ -8,13 +8,13 @@ I random chose 35,000 data for England and US each.
 
 ## Dependencies  
 
-Python                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.7  
-CUDA                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10.1  
-cudnn                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8.0.3  
+Python                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.7  
+CUDA                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10.1  
+cudnn                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8.0.3  
 Tensorflow             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.1.0  
-Keras                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.3.1  
-Librosa                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0.8.0  
-Scikit-learn           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0.23.2    
+Keras                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.3.1  
+Librosa                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0.8.0  
+Scikit-learn           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0.23.2    
 
 
 ## Method  
