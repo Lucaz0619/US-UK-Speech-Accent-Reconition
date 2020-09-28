@@ -8,7 +8,7 @@ I random chose 35,000 data for England and US each.
 
 ## Dependencies  
 
-*Python                 &emsp;&emsp;3.7  
+* Python                 &emsp;&emsp;3.7  
 CUDA                   &emsp;&emsp;10.1  
 cudnn                  &emsp;&emsp;8.0.3  
 Tensorflow             &emsp;&emsp;2.1.0  
