@@ -3,8 +3,8 @@
 
 ## DataSet  
 
-All of the speech file come from [Mozilla Voice data](https://commonvoice.mozilla.org/en/datasets).
-I random chose 35,000 data for England and US each.    
+All of the speech files come from [Mozilla Voice data](https://commonvoice.mozilla.org/en/datasets).
+Randomly chose 35,000 data for England and US each.    
 
 ## Dependencies  
 
